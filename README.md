@@ -24,8 +24,8 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 ### Enlaces
 
-- URL de la solución: [Agrega la URL de tu solución aquí](https://github.com/NuppyOz/QR-Component-Solution.git)
-- URL del sitio en vivo: [Agrega la URL del sitio en vivo aquí](https://nuppyoz.github.io/QR-Component-Solution/)
+- URL de la solución: [GitHub](https://github.com/NuppyOz/QR-Component-Solution.git)
+- URL del sitio en vivo: [GitHub Pages](https://nuppyoz.github.io/QR-Component-Solution/)
 
 ## Mi proceso
 
